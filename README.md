@@ -6,7 +6,7 @@ Criei um arquivo chamado "assercoes.js" que contém alguns exemplos de asserçõ
 
 ## Dependências
 
-- Eslint:<br>
+- Eslint: é uma ferramenta que analisa o código e aponta quaisquer problemas que encontrar. Ele pode encontrar bugs, áreas potencialmente problemáticas, estilos de codificação ruins e questões de estilo. Para instalar-lo basta digitar o comando abaixo no terminal:<br>
 `npm install --save-dev eslint`
 
 ## Observações
