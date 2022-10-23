@@ -6,9 +6,9 @@ Criei um arquivo chamado "assercoes.js" que contém alguns exemplos de asserçõ
 
 ## Dependências
 
-- Eslint:
+- Eslint:<br>
 `npm install --save-dev eslint`
 
 ## Observações
 
-Link do projeto no gitpages: projeto em andamento 😎
+- Link do projeto no gitpages: projeto em andamento 😎
