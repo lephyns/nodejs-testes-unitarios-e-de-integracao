@@ -38,8 +38,8 @@ Colunas da tabela e suas explicações:
 
 - Uncovered lines: exibe quais linhas de cada arquivo não foram percorridas pelo Jest.
 
-:::tip Dica!
-O Jest também fornece o relatório de cobertura de forma mais visual. Quando utilizamos a flag coverage, além de exibir o relatório no terminal, o Jest também cria a pasta coverage na raiz do projeto. Dentro desta pasta, você pode acessar a subpasta lcov-report para ver o relatório (report) e interagir com os arquivos, abrindo o arquivo index.html e navegando pelos arquivos.
-:::
+    :::tip Dica!
+    O Jest também fornece o relatório de cobertura de forma mais visual. Quando utilizamos a flag coverage, além de exibir o relatório no terminal, o Jest também cria a pasta coverage na raiz do projeto. Dentro desta pasta, você pode acessar a subpasta lcov-report para ver o relatório (report) e interagir com os arquivos, abrindo o arquivo index.html e navegando pelos arquivos.
+    :::
 
 - Link do projeto no gitpages: projeto em andamento 😎
