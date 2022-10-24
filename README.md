@@ -16,15 +16,21 @@ Para executar os testes e exibir o relatório de testes simples basta digitar o 
 
 `npm run test`
 
+[gif](./imagens/npm-run-test.gif "npm run test")
+
 Para ficar assistindo o código e rodar automaticamente os testes conforme as alterações são feitas e salvas no projeto digitar o comando abaixo no terminal:<br>
 
 `npm run test:watch`
+
+[gif](./imagens/npm-run-test-watch.gif "npm run test:watch")
 
 Para exibir o relatório de testes em forma de tabela (ferramenta integrada do jest para cobertura de testes, que possibilita identificar caminhos não testados no código):<br>
 
 `npm run test:coverage`
 
-Colunas da tabela e suas explicações:
+[gif](./imagens/npm-run-test-coverage.gif "npm run test coverage")
+
+Colunas da tabela acima e suas explicações:
 
 - File: indica quais arquivos de teste do diretório estão sendo executados. Cada linha dessa coluna fornece as estatísticas para cada arquivo de teste localizado e executado pelo Jest.
 
@@ -38,5 +44,5 @@ Colunas da tabela e suas explicações:
 
 - Uncovered lines: exibe quais linhas de cada arquivo não foram percorridas pelo Jest.
 
-**Dica**<br>
+**Dica:**<br>
 O Jest também fornece o relatório de cobertura de forma mais visual. Quando utilizamos a flag coverage, além de exibir o relatório no terminal, o Jest também cria a pasta coverage na raiz do projeto. Dentro desta pasta, você pode acessar a subpasta lcov-report para ver o relatório (report) e interagir com os arquivos, abrindo o arquivo index.html e navegando pelos arquivos.
