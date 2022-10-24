@@ -16,19 +16,19 @@ Para executar os testes e exibir o relatório de testes simples basta digitar o 
 
 `npm run test`
 
-[gif](./imagens/npm-run-test.gif "npm run test")
+[](./imagens/npm-run-test.gif "npm run test")
 
 Para ficar assistindo o código e rodar automaticamente os testes conforme as alterações são feitas e salvas no projeto digitar o comando abaixo no terminal:<br>
 
 `npm run test:watch`
 
-[gif](./imagens/npm-run-test-watch.gif "npm run test:watch")
+[](./imagens/npm-run-test-watch.gif "npm run test:watch")
 
 Para exibir o relatório de testes em forma de tabela (ferramenta integrada do jest para cobertura de testes, que possibilita identificar caminhos não testados no código):<br>
 
 `npm run test:coverage`
 
-[gif](./imagens/npm-run-test-coverage.gif "npm run test coverage")
+[](./imagens/npm-run-test-coverage.gif "npm run test coverage")
 
 Colunas da tabela acima e suas explicações:
 
