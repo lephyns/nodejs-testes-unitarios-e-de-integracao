@@ -4,7 +4,7 @@ Este projeto foi criado como exercício do curso "Node.js: testes unitários e d
 Nele criei testes unitários com o jest.<br>
 Criei um arquivo chamado "assercoes.js" que contém alguns exemplos de asserções. Também criei o arquivo index com algumas funções que exportei para serem usadas nos testes que estão dentro da pasta "test".<br>
 - O teste "operacoes" foi uma busca que fiz no jestjs.io para entender melhor o que essa ferramenta é capaz.
-- O teste "folhaDePagamento" são testes que aprendi com o curso da Alura que ainda não foi finalizado.
+- O teste "folhaDePagamento" e carrinho são testes que aprendi com o curso da Alura que ainda não foi finalizado.
 
 ## Dependências
 
